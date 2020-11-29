@@ -1,0 +1,13 @@
+body{
+    width: 1200px;
+}
+
+
+.contenedor-img img{
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+    text-align: center;
+    background-color: cyan;
+}
+
